@@ -1,0 +1,6 @@
+id_usuario,nombre_completo,email,fecha_registro,activo
+1, Juan Pérez ,juan.perez@gmail.com,01/05/2023,sí
+2,maria lopez,maria.lopez@,2023-05-02,SI
+3,CARLOS   GOMEZ,,03-05-2023,no
+4,   Ana Díaz,ana.diaz@gmail.com,,false
+5,Luis Medina,luis.medina@gmail.com,05/01/2023,Sí
