@@ -35,4 +35,8 @@ Este proyecto implementa un pipeline ETL real usando Python y SQLite, aplicado a
 ---
 
 ## 📁 Estructura del proyecto
-
+📦 etl-usuarios
+┣ 📄 etl_usuarios.py
+┣ 📄 usuarios_registrados.csv
+┣ 📄 usuarios.db
+┗ 📄 README.md
